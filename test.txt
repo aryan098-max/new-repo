@@ -1,0 +1,91 @@
+1. Create a gantt chart for Amazon Web Application must contains at least 30 tasks 
+2. Custom calendar - ends Nov 22/2023 
+3. Saturday as a working day 
+4. Friday non working on alternate on alternate months
+5. resource sheet - 3 mateiral Type, 3 cost type, 3 work type 
+6. Create some tasks with high priority 
+7. Your project must contain a milestone and add a lag of 6 days and lead of 3 days 
+8. recurring task 2hrs on every saturday till the during of the project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amazon Project
+
+Project Planning
+Project Execution
+Project Monitoring and Control
+Project Closure
+Project Planning
+
+Define Objectives
+Define Scope
+Create Project Charter
+Develop Project Management Plan
+Project Execution
+
+Create Amazon Website
+Build Infrastructure
+Develop Products and Services
+Create Logistics and Supply Chain
+Project Monitoring and Control
+
+	
+Obtain Customer Feedback
+Conduct Project Review
+Archive Project Documents
+Release Resources
+Create Amazon Website
+
+Develop User Interface
+Build Front-End Architecture
+Build Back-End Architecture
+Implement Database
+Build Infrastructure
+
+Procure Hardware and Software
+Build Data Centers
+Establish Network Infrastructure
+Develop Products and Services
+
+Conduct Market Research
+Develop Products
+Create Services
+Create Logistics and Supply Chain
+
+Establish Warehouses
+Create Delivery Networks
+Develop Vendor Management System
+Perform Quality Control
+
+Test Website Functionality
+Test Infrastructure Performance
+Test Products and Services Quality
+
+
+
+
+Regenerate response
